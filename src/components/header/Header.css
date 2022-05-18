@@ -1,0 +1,10 @@
+.header {
+    height: 80px;
+    background: #089ef5;
+}
+
+.header__title {
+    margin: 0;
+    color: #faf5f5;
+
+}
