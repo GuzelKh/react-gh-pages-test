@@ -1,0 +1,9 @@
+.button {
+    outline: none;
+    border: none;
+    background: rgb(106, 106, 107);
+    padding: 15px 40px;
+    color: aliceblue;
+    border-radius: 4%;
+    margin: 5px;
+}
